@@ -15,7 +15,7 @@ Click on file names for more details about each configuration file.
 
 ## Policy File Structure
 
-├ 📁 .github
+├ 📁 .github  
 ├── 📁 policies  
 └──── 🗎 [branch-protection.yml](branch-protection.md) (Branch Policies)  
 
