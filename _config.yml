@@ -2,7 +2,6 @@ remote_theme: pmarsceill/just-the-docs
 
 title: GitHub Policy Service
 description: Documentation for managing your organization and repository using the GitOps Policy Service.
-baseurl: "/refactored-waddle/"
 
 permalink: pretty
 search_enabled: true
