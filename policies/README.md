@@ -3,8 +3,6 @@ title: Policy Service
 has_children: true
 has_toc: false
 permalink: /policies/index.html
-{% if site.url contains "ghe.com" %}
-published: false{% endif }
 ---
 
 # Supported Policies
