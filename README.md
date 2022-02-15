@@ -13,7 +13,7 @@ The GitHub Policy Service is created and maintained by the
 This service enables the management of compliance and governance
 policies on an Enterprise GitHub instance. In a nutshell, the Policy
 Service allows you to manage your organizations and repositories
-using a technique known as **_GitOps_**. See [What is GitOps?](gitops.md)
+using a technique known as **_GitOps_**. See [What is GitOps?](policies/gitops.md)
 for more information.
 
 ## Policy Configuration
@@ -24,5 +24,4 @@ and repositories. The list of available policies you can configure
 is available here:
 
 * [Supported Policies](policies/README.md)
-* [Developer Reference](reference/README.md)
 

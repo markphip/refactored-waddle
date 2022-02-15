@@ -1,7 +1,7 @@
 ---
-title: Inheritance
-parent: Reference
-permalink: /reference/inheritance.html
+title: Inheritance and Overriding
+parent: Policy Service
+permalink: /policies/inheritance.html
 ---
 
 # Configuration Inheritance and Overriding

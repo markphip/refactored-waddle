@@ -1,8 +1,8 @@
 ---
 layout: default
+parent: Policy Service
 title: GitOps
-nav_order: 2
-permalink: /gitops.html
+permalink: /policies/gitops.html
 ---
 # GitOps
 

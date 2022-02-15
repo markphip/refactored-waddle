@@ -1,6 +1,5 @@
 ---
-title: Supported Policies
-nav_order: 3
+title: Policy Service
 has_children: true
 has_toc: false
 permalink: /policies/index.html{% if site.url contains "ghe.com" %}
@@ -25,3 +24,9 @@ Click on file names for more details about each configuration file.
 | Policy Name | Description | Possible scenarios| Policy level |
 |:------------|:------------|:------------------|:-------------|
 | [Branch Protection](branch-protection.md) | Control required number of code reviewers, protect pushing to release branches etc. | Enforces good deployment/coding practices and ensures compliance checks are run on all code before it is merged | Organization, Repository |
+
+
+## Policy Service Reference
+
+* [Constraints](constraints.md)
+* [Inheritance and Overriding](inheritance.md)

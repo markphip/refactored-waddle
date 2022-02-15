@@ -1,7 +1,7 @@
 ---
 title: Constraints
-parent: Reference
-permalink: /reference/constraints.html
+parent: Policy Service
+permalink: /policies/constraints.html
 ---
 
 # Constraints

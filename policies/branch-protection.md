@@ -1,6 +1,6 @@
 ---
 title: Branch Protection
-parent: Supported Policies
+parent: Policy Service
 permalink: /policies/branch-protection.html
 ---
 # Branch Protection Policy
