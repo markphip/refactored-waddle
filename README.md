@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-permalink: /
+permalink: /index.html
 {% if site.url contains "ghe.com" %}
 published: false{% endif }
 ---
@@ -19,7 +19,7 @@ for more information.
 
 ## Policy Configuration
 
-The Policy Service is continually evovling to provide an ever
+The Policy Service is continually evolving to provide an ever
 increasing set of policies that it can apply to your organization
 and repositories. The list of available policies you can configure
 is available here:
