@@ -1,0 +1,29 @@
+remote_theme: pmarsceill/just-the-docs
+
+title: GitHub Policy Service
+description: Documentation for managing your organization and repository using the GitOps Policy Service.
+
+permalink: pretty
+search_enabled: true
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+
+heading_anchors: true
+
+nav_sort: case_sensitive
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/markphip/refactored-waddle"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
