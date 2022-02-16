@@ -3,6 +3,8 @@ layout: default
 title: Home
 nav_order: 1
 permalink: /
+{% if site.url contains "ghe.com" %}
+published: false{% endif }
 ---
 
 # Policy Service Documentation
